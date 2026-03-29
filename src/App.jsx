@@ -5,7 +5,7 @@ import Board from "./components/Board";
 import { io } from "socket.io-client";
 import { useUndoRedo } from "./hooks/useUndoRedo";
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5001';
+const API_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000';
 const socket = io(API_URL);
 
 function App() {
