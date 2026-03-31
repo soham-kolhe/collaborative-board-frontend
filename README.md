@@ -83,7 +83,9 @@ graph LR
 > ### 💡 IMPORTANT / NOTES 
 > This repository contains the **Frontend App only**.<br>
 > The interactive **Node.js + Socket.io backend** can be found here:<br>
-> 👉 [Backend](https://github.com/soham-kolhe/collaborative-board-backend)
+> 👉 [BACKEND](https://github.com/soham-kolhe/collaborative-board-backend)
+>
+> 📗 [ROOT DOCS](https://github.com/soham-kolhe/collaborative-board/blob/main/README.md)
 
 ## ⚙️ Setup & Installation
 
